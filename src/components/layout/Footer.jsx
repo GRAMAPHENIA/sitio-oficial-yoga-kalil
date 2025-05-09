@@ -34,7 +34,7 @@ export default function Footer() {
         </div>
         <div className="mt-8 text-center text-stone-400 text-sm">
           <p>
-          Melina Kalil  {new Date().getFullYear()}
+          Melina Khalil  {new Date().getFullYear()}
           </p>
         </div>
       </div>

@@ -10,11 +10,11 @@ export default function About() {
         <div className="flex flex-col md:flex-row items-center gap-12 max-w-4xl mx-auto">
           <div className="md:w-1/3">
             <div className="relative w-64 h-64 mx-auto rounded-full overflow-hidden">
-              <Image src="/image.webp" alt="Melina Kalil" fill className="object-cover" />
+              <Image src="/image.webp" alt="Melina Khalil" fill className="object-cover" />
             </div>
           </div>
           <div className="md:w-2/3">
-            <h3 className="text-2xl font-serif mb-4">Melina Kalil</h3>
+            <h3 className="text-2xl font-serif mb-4">Melina Khalil</h3>
             <p className="text-stone-600 mb-4">
               Descubrí el yoga durante un momento difícil de mi vida, y transformó mi relación con mi cuerpo y mente.
               Durante más de 10 años, he compartido el poder curativo del yoga con estudiantes de todas las edades y habilidades.

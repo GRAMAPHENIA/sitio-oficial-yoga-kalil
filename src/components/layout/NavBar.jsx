@@ -24,7 +24,7 @@ export default function Navbar() {
       <nav className="fixed top-4 left-0 right-0 z-50 bg-white/80 backdrop-blur-sm shadow-sm rounded-xl max-w-6xl mx-auto px-4">
         <div className="container mx-auto px-4 py-4 flex justify-between items-center">
           <div className="text-xl font-serif font-medium text-teal-700">
-            Melina Kalil
+            Melina Khalil
           </div>
 
           {/* Desktop Menu */}
