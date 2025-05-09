@@ -27,7 +27,7 @@ export default function Benefits() {
     <section id="clases" className="py-20 max-w-7xl mx-auto">
       <div className="container mx-auto px-4">
         <h2 className="text-3xl md:text-4xl font-serif text-center mb-16">
-          Descubre los beneficios de mis clases
+          Descubri los beneficios de las clases
         </h2>
 
         <div className="grid md:grid-cols-3 gap-10">

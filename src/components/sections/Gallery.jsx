@@ -2,27 +2,27 @@ import Image from "next/image";
 
 const galleryImages = [
   {
-    src: "/image.webp",
+    src: "/meditacion-amanecer.jpg",
     alt: "Postura de yoga en meditación",
     className: "col-span-2 row-span-2",
   },
   {
-    src: "/image.webp",
+    src: "/grupal.jpg",
     alt: "Práctica grupal de yoga",
     className: "col-span-1 row-span-1",
   },
   {
-    src: "/image.webp",
+    src: "/al-amanecer.png",
     alt: "Meditación al amanecer",
     className: "col-span-1 row-span-1",
   },
   {
-    src: "/image.webp",
+    src: "/postura-avanzada.jpg",
     alt: "Postura de flexibilidad avanzada",
     className: "col-span-1 row-span-2",
   },
   {
-    src: "/image.webp",
+    src: "/estiramiento-de-espalda.jpg",
     alt: "Estiramiento de espalda",
     className: "col-span-1 row-span-1",
   },

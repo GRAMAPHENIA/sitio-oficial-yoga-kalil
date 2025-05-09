@@ -13,7 +13,7 @@ export default function Footer() {
       <div className="container mx-auto px-4">
         <div className="flex flex-col md:flex-row justify-between items-center">
           <div className="mb-6 md:mb-0">
-            <div className="text-xl font-serif font-medium">Melina Kalil</div>
+            <div className="text-xl font-serif font-medium">Melina Khalil</div>
             <p className="text-stone-300 mt-2">
               Profesora de Yoga & Guía de Bienestar
             </p>
